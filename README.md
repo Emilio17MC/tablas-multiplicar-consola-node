@@ -2,6 +2,8 @@
 
 Este programa genera un archivo .txt con la tabla de multiplicar del número indicado como base.
 
+Para iniciar se debe clonar el repositorio y ejecutar el comando ```npm install```.
+
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
